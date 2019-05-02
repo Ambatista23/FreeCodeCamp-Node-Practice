@@ -1,2 +1,1 @@
-# FreeCodeCamp-Node-Practice
-Node
+# Backend Challenges boilerplate - package.json
