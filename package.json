@@ -1,8 +1,8 @@
 {
 	"author": {
-		"author": "AMB"
+		"name": "AMB"
 	},
-	
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
